@@ -7,7 +7,7 @@
 
 - 📫 Você me encontra através do e-mail **beatrizdorin@gmail.com**
 
-- 📄 Com mais de 8 anos de experiência na área administrativa, destaco-me pelo atendimento ao cliente, confecção de contratos e habilidades de negociação. Contudo, minha verdadeira paixão sempre foi a tecnologia. Decidi investir em uma mudança de carreira e concluí minha graduação em Análise e Desenvolvimento de Sistemas pela UNINOVE. Minha jornada de aprendizado e crescimento é uma combinação única de uma sólida base administrativa, atendimento ao cliente e as habilidades em tecnologia. [https://www.linkedin.com/in/beatrizdorin/](https://www.linkedin.com/in/beatrizdorin/)
+- 📄 Sou graduada em Análise e Desenvolvimento de Sistemas pela UNINOVE e estou em busca da minha primeira oportunidade como desenvolvedora. Tenho me dedicado ao estudo de stacks, incluindo Python, HTML e  SQL. Recentemente, desenvolvi um site de apresentação como parte do meu aprendizado em HTML, onde compartilho um pouco sobre mim e minhas redes sociais. Meu foco de carreira é em desenvolvimento, e tenho experiencia com versionamento de código usando Git e Github, além de ferramentas com PyCharm, Microsoft SQL Server e Visual Studio. Estou animada para aplicar minhas habilidades em um ambiente profissional e contribuir para projetos desafiadores. [https://www.linkedin.com/in/beatrizdorin/](https://www.linkedin.com/in/beatrizdorin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
