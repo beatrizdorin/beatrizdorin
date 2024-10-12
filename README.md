@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beatrizdorina&label=Profile%20views&color=0e75b6&style=flat" alt="beatrizdorina" /> </p>
 
-- 🌱 Estudando **Python, SQL, Excel, PHP, GIT, Laravel e SQL Server**
+- 🌱 Estudando **Python, SQL, Java, HTML, GIT e SQL Server**
 
 - 📫 Você me encontra através do e-mail **beatrizdorin@gmail.com**
 
